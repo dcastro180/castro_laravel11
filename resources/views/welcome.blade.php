@@ -11,6 +11,7 @@
             <h1>Bem Vindo </h1>
             <p>Data Atual: {{\carbon\carbon:: now() -> format('d/m/Y H:i:s') }}</p><br>
             <p>Primeiro teste no Laravel 11</p>
+            <p>Agora esta no github</p>
         </div>
     </body>
 </html>
